@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "Full-stack Developing",
+            "subtitle": "MERN",
+            "workType": "",
+            "workDescription": [
+                "In GUVI IIT madras"
+            ],
+            "dateText": "02-08/2024"
+        },
+        {
+            "title": "Certified in Python programming",
+            "subtitle": "",
+            "workType": "",
+            "workDescription": [
+                "In GUVI IIT madras"
+            ],
+            "dateText": "04/2024"
+        },
+        {
+            "title": "Certified in Java programming",
+            "subtitle": "",
+            "workType": "",
+            "workDescription": [
+                "In Besant Technologies"
+            ],
+            "dateText": "11/2023"
+        }
+    ]
+}

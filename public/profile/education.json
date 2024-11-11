@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "July 2019 - May 2023",
+            "cardTitle": "B.E, Computer Science and Engineering",
+            "cardSubtitle":"Coimbatore institute of engineering and technology, Coimbatore",
+            "cardDetailedText": "CGPA - 7.6"
+        },
+        {
+            "title": "2018 - 2019",
+            "cardTitle": "Higher secondary",
+            "cardSubtitle":"P.M Higher sec school, theni",
+            "cardDetailedText": "Marks - 55.9%"
+        },
+        {
+            "title": "2016 - 2017",
+            "cardTitle": "Secondary school",
+            "cardSubtitle":"P.M Higher sec school, theni",
+            "cardDetailedText": "Marks - 84.5%"
+        }
+    ]
+}

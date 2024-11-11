@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/NK.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Certification",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1Nnzgb21vKUoRrx52ZxnZqUPwyy8vm_yB/view?usp=drivesdk",
+            "type": "link"
+        }
+    ]
+
+}

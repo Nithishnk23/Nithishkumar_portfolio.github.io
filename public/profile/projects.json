@@ -1,0 +1,179 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/HotelBooking.png",
+            "title": "Hotel Booking",
+            "bodyText": "- This is user-friendly Hotel Booking app\n -  Fully customisable and dynamic, easily change data and images.\n - The main goal of the Hotel Booking project is to provide users with a user-friendly platform to browse, book, and manage hotel reservations. Whether planning a vacation or a business trip, users can easily find suitable accommodations and make secure bookings.\n - This project is a full-stack web application built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/Hotel_Booking_RE_client.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://hotelbookingnk.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "MERN Stack",
+                "Hotel Booking"
+            ]
+        },
+        {
+            "image" : "images/projects/PasswordReset.png",
+            "title": "Password-Reset",
+            "bodyText": "- The project focuses on providing a secure and user-friendly system for managing user accounts and passwords.\n - Security measures implemented for storing passwords (hashing, salting) in the database.\n - A secure and straightforward process for users to reset their passwords.\n - User-friendly interface for signup and login functionalities.\n - Utilization of Node Mailer for sending password reset emails securely.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/PasswordReset_FE.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://stupendous-dodol-d76df6.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "Node Mailer",
+                "Bcrypt",
+                "Netlify",
+                "Render"
+            ]
+        },
+        {
+            "image" : "images/projects/ShoppingCart.png",
+            "title": "Shopping cart",
+            "bodyText": "- This project is about creating a shopping cart with given JSON data using React.\n - This is an Cart Items List website which is based on react useContext Hook using React.\n - Cart functionality: add and remove products, adjust quantities.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/React_Redux_shopping_cart.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://papaya-fenglisu-619678.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React-Redux",
+                "React Router",
+                "Context API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/LibraryManagement.png",
+            "title": "Library Management",
+            "bodyText": "- This Project is about creating a Library Management Sytem using React Formik.\n - A web application designed to help manage your library's books and authors.\n - Add and manage books, including titles, authors, ISBN numbers, and publication dates.\n - Add and manage authors with their names, birthdates, and biographies.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/React-formik-Library-management.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://precious-mooncake-fda5cc.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "React Router",
+                "Formik",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/CRUD.png",
+            "title": "CRUD App",
+            "bodyText": "- A simple CRUD (Create, Read, Update, Delete) application built using React and Axios. This project demonstrates how to perform basic CRUD operations on user data.\n -  This project demonstrates how to perform basic CRUD operations on user data.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/React-Axios-CRUD.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://cheery-gelato-a1b3d3.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Axios",
+                "React Router",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/GuviBlog.png",
+            "title": "GUVI blog App",
+            "bodyText": "- Guvi blog app includes details of courses.\n - the navigation for courses in the middle of the page like All , full stack development, Data science , Cyber Security & Career As Navigation menu.\n -  using react router dom and add the contents as static as given in pages",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/React-Router-Dom.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://verdant-mooncake-a4a793.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "React Router",
+                "React Router DOM"
+            ]
+        },
+        {
+            "image" : "images/projects/pricecard.png",
+            "title": "Price Card",
+            "bodyText": "- A simple price card web app made with **React**.\n -  this user interface using a React.js application with **JSX**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/React-price-card.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://thriving-medovik-e38f76.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "React DOM",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "File system",
+            "bodyText": "- This project content consists of the current timestamp, and its filename reflects the current date and time.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/NodeJS_task1_FileSystem.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://nodejs-task1-filesystem-2-9dyp.onrender.com/"
+                }
+            ],
+            "tags" : [
+                "Node JS",
+                "Express.js",
+                "Nodemon"
+            ]
+        },
+        {
+            "title": "Paddy leaf disease detection",
+            "bodyText": "- Developed a Machine learning application to assist farmers in early disease diagnosis, promoting efficient crop management with a focus on data privacy and ethics.",
+            "tags" : [
+                "Python",
+                "Machine learning",
+                "mySQL"
+            ]
+        }
+    ]
+}
