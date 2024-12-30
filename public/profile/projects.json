@@ -1,22 +1,68 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/HotelBooking.png",
-            "title": "Hotel Booking",
-            "bodyText": "- This is user-friendly Hotel Booking app\n -  Fully customisable and dynamic, easily change data and images.\n - The main goal of the Hotel Booking project is to provide users with a user-friendly platform to browse, book, and manage hotel reservations. Whether planning a vacation or a business trip, users can easily find suitable accommodations and make secure bookings.\n - This project is a full-stack web application built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js.",
+            "image" : "images/projects/chatapp.png",
+            "title": "Real-time chatapp",
+            "bodyText": "- This is user-friendly chat app\n -  Users can send and receive messages instantly.\n - Secure login and registration system.\n -Ability to create and join group chats.\n - Optimized for both desktop and mobile users.\n - This project is a full-stack web application built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/Nithishnk23/Hotel_Booking_RE_client.git"
+                    "href": "https://github.com/Nithishnk23/fullstack-chat-app.git"
                 },
                 {
                     "text": "Live",
-                    "href": "https://hotelbookingnk.netlify.app/"
+                    "href": "https://fullstack-chat-app-71lw.onrender.com/"
                 }
             ],
             "tags" : [
                 "MERN Stack",
-                "Hotel Booking"
+                "chatty",
+                "Real-time messaging",
+                "User authentication",
+                "Group chats"
+            ]
+        },
+        {
+            "image" : "images/projects/e-commerce.png",
+            "title": "E-commerce shopping app",
+            "bodyText": "- This is user-friendly shopping app.\n - Secure login/signup with potential roles like admin or customer.\n - Displaying products with details like images, prices, and descriptions.\n - Users can add, remove, or update items in their cart.\n - Handling orders, payments, and confirmations.\n - Optimized for desktop and mobile devices.\n - This project is a full-stack web application built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/e-commerce-store.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://e-commerce-store-bi5z.onrender.com/"
+                }
+            ],
+            "tags" : [
+                "MERN Stack",
+                "E-Commerce store",
+                "Product Management",
+                "Responsive Design",
+                "Order Tracking"
+            ]
+        },
+        {
+            "image" : "images/projects/twitterclone.png",
+            "title": "Twitter clone app",
+            "bodyText": "- This is Twitter clone app.\n - Secure login/signup with potential accounts.\n - Media Support: Upload and display images or videos in posts.\n - Real-time private chat between users.\n - Handling orders, payments, and confirmations.\n - Users can update profile pictures, bios, and other details.\n - Optimized for desktop and mobile devices.\n - This project is a full-stack web application built using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Nithishnk23/twitter-clone-app.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://twitter-clone-app-ixh5.onrender.com"
+                }
+            ],
+            "tags" : [
+                "MERN Stack",
+                "Product Management",
+                "Media support",
+                "Hastag and trends"
             ]
         },
         {
